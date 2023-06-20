@@ -1,0 +1,4 @@
+C:/Users/tatya/Downloads/coursework/build/CMakeFiles/sudoku.dir
+C:/Users/tatya/Downloads/coursework/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/tatya/Downloads/coursework/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/tatya/Downloads/coursework/build/pybind11/CMakeFiles/ALL_BUILD.dir
